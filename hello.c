@@ -7,5 +7,6 @@ int main(){
 	ptintf("1111111111111111111111");master.test
 	printf("Hello git Hello git ..");
 	prinitf("111111111111111111111");jin.test
+	printf("2222222222222222222222");by lhc
 	return 0;
 }
