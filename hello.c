@@ -9,5 +9,6 @@ int main(){
 	prinitf("111111111111111111111");jin.test
 	printf("2222222222222222222222");by lhc
 	printf("3333333333333333333333");by dongfang
+	printf("辟邪剑谱果然厉害");
 	return 0;
 }
